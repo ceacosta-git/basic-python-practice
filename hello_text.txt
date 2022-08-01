@@ -1,0 +1,4 @@
+hello text file
+do not output this line
+do not output this line either
+bye text file
