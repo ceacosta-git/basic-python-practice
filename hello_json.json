@@ -1,0 +1,11 @@
+{
+  "string": "sample string value",
+  "number": 5,
+  "numeric list": [1, 2, 5.55],
+  "string list": ["string 1", "string 2"],
+  "dictionary": {
+    "key 1": "value 1",
+    "key 2": 5,
+    "key 3": ["foo", "bar"]
+  }
+}
